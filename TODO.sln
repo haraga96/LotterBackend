@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TODO.Api", "TODO.Api\TODO.Api.csproj", "{6A583EDA-B681-4F45-B58E-BFEF58F35591}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TODO.Repository", "TODO.Repository\TODO.Repository.csproj", "{ECA2079E-CB87-494E-95B0-E8086B3552EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TODO.Models", "TODO.Models\TODO.Models.csproj", "{39D7ECB3-F1CE-4BA8-9055-FDD95C952F77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A583EDA-B681-4F45-B58E-BFEF58F35591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A583EDA-B681-4F45-B58E-BFEF58F35591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A583EDA-B681-4F45-B58E-BFEF58F35591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A583EDA-B681-4F45-B58E-BFEF58F35591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA2079E-CB87-494E-95B0-E8086B3552EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA2079E-CB87-494E-95B0-E8086B3552EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA2079E-CB87-494E-95B0-E8086B3552EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA2079E-CB87-494E-95B0-E8086B3552EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39D7ECB3-F1CE-4BA8-9055-FDD95C952F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D7ECB3-F1CE-4BA8-9055-FDD95C952F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D7ECB3-F1CE-4BA8-9055-FDD95C952F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D7ECB3-F1CE-4BA8-9055-FDD95C952F77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
